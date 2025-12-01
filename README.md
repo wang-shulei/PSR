@@ -1,7 +1,5 @@
 <h3 align="center">
-    <!-- <img src="assets/logo.png" alt="Logo" style="vertical-align: middle; width: 40px; height: 40px;"> -->
     PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards
-    <!-- Less-to-More Generalization: </br>Unlocking More Controllability by In-Context Generation -->
 </h3>
 
 <p align="center"> 
