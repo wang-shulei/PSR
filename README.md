@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center"> 
-<!-- <a href="https://arxiv.org/abs/2512.9999"><img alt="Build" src="https://img.shields.io/badge/arXiv-2513.9999-b31b1b"></a> -->
+<a href="https://arxiv.org/abs/2512.01236"><img alt="Build" src="https://img.shields.io/badge/arXiv-2512.01236-b31b1b"></a>
 <a href="https://drive.google.com/file/d/1p7I2E-R8q5zN8XVQwU__uKzsPai5jPWZ/view?usp=drive_link"><img src="https://img.shields.io/badge/Dataset-Download-green"></a>
 <a href="https://github.com/wang-shulei/PSR"><img alt="Build" src="https://img.shields.io/github/stars/wang-shulei/PSR"></a> 
 </p>
