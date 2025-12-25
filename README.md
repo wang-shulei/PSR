@@ -16,7 +16,7 @@
     <span>Jiangbo Ouyang</span><sup>2</sup>,
     <span>Hui Lu</span><sup>2</sup>,
     <span>Zhou Zhao</span><sup>1</sup>,
-    <span>Qi Tian</span><sup>2*</sup>
+    <span>Qi Tian</span><sup>2</sup>
     <br>
     <span style="font-size: 16px;">
         <sup>1</sup> Zhejiang University &nbsp;&nbsp;
