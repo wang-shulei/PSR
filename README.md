@@ -32,7 +32,9 @@
 class="center">
 </p>
 
-
+## 🔥 News
+- **2026.2** 🎉 PSR has been accepted by CVPR 2026!
+- **2025.11** The benchmark’s data and scripts have been released！
 ## 📖 Introduction
 Multi-subject personalized image generation remains challenging, as existing models often fail to maintain subject identity, handle complex compositions, or follow detailed text instructions. To address these issues, we introduce a scalable multi-subject data generation pipeline and a reinforcement learning framework powered by Pairwise Subject-Consistency Reward (PSR).
 
@@ -42,7 +44,6 @@ Our approach achieves strong improvements across all dimensions, delivering more
 <img src="./assets/methods.jpeg" width=95% height=95% 
 class="center">
 </p>
-- 🎉 PSR has been accepted by CVPR 2026.
 
 ## 🧪 PSRBench: Fine-grained Evaluation for Multi-Subject Personalization
 Overview of PSRBench, PSRBench consists of seven subsets, each evaluating multi-subject personalized generation models from a different perspective. Each subset contains 50 high-quality test samples and is evaluated along three distinct dimensions.
