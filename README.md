@@ -173,9 +173,14 @@ Visualization results on DreamBench
 class="center">
 </p>
 
-<!-- ## 📘 Citation 
-If you find PSR helpful in your research or applications, please consider starring the project ⭐ and citing it using the following BibTeX entry.
+## 📘 Citation 
+If PSR proves useful for your research or applications, we would greatly appreciate your support by starring the project ⭐ and citing it.
 
 ```
-TBD -->
+@article{wang2025psr,
+  title={PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards},
+  author={Wang, Shulei and Wei, Longhui and He, Xin and Ouyang, Jianbo and Lu, Hui and Zhao, Zhou and Tian, Qi},
+  journal={arXiv preprint arXiv:2512.01236},
+  year={2025}
+}
 ```
