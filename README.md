@@ -32,6 +32,13 @@
 class="center">
 </p>
 
+<!-- Highlighted News Section -->
+<p align="center">
+  <strong style="font-size:1.3em; color:#ffffff; background-color:#ff4c4c; padding:10px 20px; border-radius:10px;">
+    🎉 PSR has been accepted by CVPR 2026!
+  </strong>
+</p>
+
 ## 📖 Introduction
 Multi-subject personalized image generation remains challenging, as existing models often fail to maintain subject identity, handle complex compositions, or follow detailed text instructions. To address these issues, we introduce a scalable multi-subject data generation pipeline and a reinforcement learning framework powered by Pairwise Subject-Consistency Reward (PSR).
 
