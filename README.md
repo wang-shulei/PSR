@@ -10,7 +10,7 @@
 
 
 <p align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-    <span>Shulei Wang</span><sup>1,2,*</sup>,
+    <span>Shulei Wang</span><sup>1</sup>,
     <span>Longhui Wei</span><sup>2,†</sup>,
     <span>Xin He</span><sup>2</sup>,
     <span>Jiangbo Ouyang</span><sup>2</sup>,
@@ -24,7 +24,7 @@
     </span>
     <br>
     <span style="font-size: 14px; font-style: italic; color: #555;">
-        († Corresponding author. * Work was done during internship at Huawei.)
+        († Corresponding author.)
     </span>
 </p>
 <p align="center">
